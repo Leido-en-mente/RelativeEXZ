@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1025010637969",
+    "firebase_url": "https://relativeexe-default-rtdb.firebaseio.com",
+    "project_id": "relativeexe",
+    "storage_bucket": "relativeexe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025010637969:android:869823bd970b597e0bf330",
+        "android_client_info": {
+          "package_name": "com.cdp.relativeex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025010637969-lsjpa7felp0sdncq46r2ti74gn1qcddi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb01FgM9r2_rdeaND9pxHvYZh-6OGvUC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025010637969-lsjpa7felp0sdncq46r2ti74gn1qcddi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
